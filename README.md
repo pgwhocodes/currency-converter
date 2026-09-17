@@ -2,7 +2,9 @@
 
 A lightweight and easy-to-use currency converter application that allows users to convert amounts between different world currencies in real-time.
 
----
+## Live Demo
+
+[Open My Currency Converter](https://pgwhocodes.github.io/currency-converter/)
 
 ## Features
 
@@ -11,14 +13,10 @@ A lightweight and easy-to-use currency converter application that allows users t
 * **User-Friendly Interface:** Clean and intuitive design for quick calculations.
 * **Lightweight & Fast:** Minimalist codebase with fast execution times.
 
----
-
 ## Tech Stack
 
 * **Language:** JavaScript / HTML / CSS 
 * **API:** ["https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies"] 
-
----
 
 ## Installation & Setup
 
