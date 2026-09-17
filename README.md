@@ -4,7 +4,7 @@ A lightweight and easy-to-use currency converter application that allows users t
 
 ## Live Demo
 
-[Open My Currency Converter](https://pgwhocodes.github.io/currency-converter/)
+[Open Currency Converter](https://pgwhocodes.github.io/currency-converter/)
 
 ## Features
 
